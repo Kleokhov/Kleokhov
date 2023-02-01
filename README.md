@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on: [AVL Data Visualization](https://github.com/Software-Engineering-2022-Group-7/AVLTrees), Algorithmically Generated Artwork
 
-- 🌱 I’m currently learning: CS041 Algorithms; CS071 Software Engineering (Fall 2022), CS035 Data Structure and Algorithms (Spring 2021), CS031 Intro to Computer Systems (Fall 2021)
+- 🌱 I’m currently learning: CS041 Algorithms, CS072 Computer Vision; CS071 Software Engineering (Fall 2022), CS035 Data Structure and Algorithms (Spring 2021), CS031 Intro to Computer Systems (Fall 2021)
 
 - 📝 I usually code in: C++, Python, and JavaScript
 
