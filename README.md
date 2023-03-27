@@ -1,8 +1,13 @@
 ### Hi 👋, I'm Kevin Dong, a junior year student in Swarthmore College
 
-- 🔭 I’m currently working on: [AVL Data Visualization](https://github.com/Software-Engineering-2022-Group-7/AVLTrees), Algorithmically Generated Artwork
+- 🔭 I’m currently working on: [AVL Data Visualization](https://github.com/Software-Engineering-2022-Group-7/AVLTrees), [Algorithmically Generated Artwork](https://github.com/Algorithmically-Generated-Artwork)
 
-- 🌱 I’m currently learning: CS041 Algorithms, CS072 Computer Vision; CS071 Software Engineering (Fall 2022), CS035 Data Structure and Algorithms (Spring 2021), CS031 Intro to Computer Systems (Fall 2021)
+- 🌱 I’m currently learning: 
+  - Fall 2023: CS066 Machine Learning, CS087 Parallel and Distributed Computing 
+  - Spring 2023: CS041 Algorithms, CS072 Computer Vision
+  - Fall 2022: CS071 Software Engineering
+  - Spring 2022: CS035 Data Structure and Algorithms
+  - Fall 2021: CS031 Intro to Computer Systems
 
 - 📝 I usually code in: C++, Python, and JavaScript
 
