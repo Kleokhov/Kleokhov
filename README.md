@@ -9,7 +9,7 @@
   - Spring 2022: CS035 Data Structure and Algorithms
   - Fall 2021: CS031 Intro to Computer Systems
 
-- 📝 I usually code in: C++, Python, and JavaScript
+- 📝 I usually code in: C++, Java, Python, and JavaScript
 
 - 📫 How to reach me: dxydema@gmail.com
 
