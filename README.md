@@ -1,6 +1,6 @@
-### Hi 👋, I'm Kevin Dong, a junior year student in Swarthmore College
+### Hi 👋, I'm Kevin Dong, a junior year student at Swarthmore College
 
-- 🔭 I’m currently working on: [AVL Data Visualization](https://github.com/Software-Engineering-2022-Group-7/AVLTrees), [Algorithmically Generated Artwork](https://github.com/Algorithmically-Generated-Artwork)
+- 🔭 I’m currently working on: ResearchTrack from [Symposium Lab](https://github.com/symposiumlab), [Algorithmically Generated Artwork](https://github.com/Algorithmically-Generated-Artwork), [AVL Data Visualization](https://github.com/Software-Engineering-2022-Group-7/AVLTrees), 
 
 - 🌱 I’m currently learning: 
   - Fall 2023: CS087 Parallel and Distributed Computing 
