@@ -2,7 +2,8 @@
 
 - 🔭 I’m currently working on: ResearchTrack from [Symposium Lab](https://github.com/symposiumlab), [Algorithmically Generated Artwork](https://github.com/Algorithmically-Generated-Artwork), [AVL Data Visualization](https://github.com/Software-Engineering-2022-Group-7/AVLTrees), 
 
-- 🌱 I’m currently learning: 
+- 🌱 I’m currently learning:
+  - Spring 2024: CS046 Theory of Computation
   - Fall 2023: CS087 Parallel and Distributed Computing, CS066 Machine Learning 
   - Spring 2023: CS041 Algorithms, CS072 Computer Vision
   - Fall 2022: CS071 Software Engineering
