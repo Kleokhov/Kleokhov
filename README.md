@@ -4,7 +4,7 @@
   - [Integration Badges (Frontend)](https://github.com/access-ci-org/Operations_WebApp_IntegrationBadges) and [Integration Badges (Backend)](https://github.com/access-ci-org/Operations_Warehouse_Django/tree/integration_badges) from ACCESS-CI
   - [Clowder](https://github.com/clowder-framework/clowder2) from NCSA
   - ResearchTrack from [Symposium Lab](https://github.com/symposiumlab)
-  - [Algorithmically Generated Artwork](https://github.com/Algorithmically-Generated-Artwork)
+  - [Algorithmically Generated Artwork (Public Demo)](https://github.com/Algorithmically-Generated-Artwork)
   - [AVL Data Visualization](https://github.com/Software-Engineering-2022-Group-7/AVLTrees)
 
 - The courses that I've taken (or am currently taking) at UPenn:
