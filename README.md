@@ -8,8 +8,8 @@
   - [AVL Data Visualization](https://github.com/Software-Engineering-2022-Group-7/AVLTrees)
 
 - The courses that I've taken (or am currently taking) at UPenn:
-  - Fall 2024: CIS 5450 Big Data Analytics, CIS 5550 Internet and Web Systems, CIS 5800 Machine Perception
-
+  - Fall 2024: CIS 5650 GPU Programming and Architecture, CIS 5550 Internet and Web Systems, CIS 5190 Applied Machine Learning
+  
 - The courses that I've taken at Swarthmore College:
   - Spring 2024: CS046 Theory of Computation
   - Fall 2023: CS087 Parallel and Distributed Computing, CS066 Machine Learning 
@@ -18,6 +18,6 @@
   - Spring 2022: CS035 Data Structure and Algorithms
   - Fall 2021: CS031 Intro to Computer Systems
 
-- 📝 I usually code in: C++, JavaScript, Python, and Java
+- 📝 I usually code in: C++, Java, C, JavaScript, and Python
 
 - 📫 How to contact me: xdong1@seas.upenn.edu or dxydema@gmail.com
