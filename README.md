@@ -8,7 +8,7 @@
   - [AVL Data Visualization](https://github.com/Software-Engineering-2022-Group-7/AVLTrees)
 
 - The courses that I've taken (or am currently taking) at UPenn:
-  - Fall 2024: CIS 5650 GPU Programming and Architecture, CIS 5550 Internet and Web Systems, CIS 5190 Applied Machine Learning
+  - Fall 2024: CIS5650 GPU Programming and Architecture, CIS5550 Internet and Web Systems, CIS5190 Applied Machine Learning
   
 - The courses that I've taken at Swarthmore College:
   - Spring 2024: CS046 Theory of Computation
