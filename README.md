@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Kevin Dong, a first-year master's student at the University of Pennsylvania studying Computer Science.
 
-- Projects that I’ve worked on:
+- Some projects that I’ve worked on:
   - [Integration Badges (Frontend)](https://github.com/access-ci-org/Operations_WebApp_IntegrationBadges) and [Integration Badges (Backend)](https://github.com/access-ci-org/Operations_Warehouse_Django/tree/integration_badges) from ACCESS-CI
   - [Clowder](https://github.com/clowder-framework/clowder2) from NCSA
   - ResearchTrack from [Symposium Lab](https://github.com/symposiumlab)
