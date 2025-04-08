@@ -8,6 +8,7 @@
   - [AVL Data Visualization](https://github.com/Software-Engineering-2022-Group-7/AVLTrees)
 
 - The courses that I've taken (or am currently taking) at UPenn:
+  - Fall 2025: CIS 5050 Software Systems, CIS 5990 Independent Study
   - Spring 2025: CIS 5480 Operating Systems Design and Implementation, CIS 6200 Advanced Topics in Deep Learning, CIS 5530 Networked Systems
   - Fall 2024: CIS5650 GPU Programming and Architecture, CIS5550 Internet and Web Systems, CIS5190 Applied Machine Learning
   
