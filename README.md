@@ -1,4 +1,4 @@
-### Hi 👋, I'm Kevin Dong, a second-year master's student at the University of Pennsylvania studying Computer Science.
+### Hi, I'm Kevin Dong, a second-year master's student at the University of Pennsylvania studying Computer Science.
 
 - Some projects that I’ve worked on:
   - [Integration Badges (Frontend)](https://github.com/access-ci-org/Operations_WebApp_IntegrationBadges) and [Integration Badges (Backend)](https://github.com/access-ci-org/Operations_Warehouse_Django/tree/integration_badges) from ACCESS-CI
